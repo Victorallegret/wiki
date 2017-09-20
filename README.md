@@ -1,1 +1,1 @@
-# wiki
+# Bonjour, voici mon wiki !
