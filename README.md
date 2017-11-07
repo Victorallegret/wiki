@@ -15,4 +15,8 @@ Welcome on my personal wiki. I will list here :
 * #### RESOURCES
   - Web hosting
     - Static website hosting
-      - [Netlify](https://www.netlify.com/)
+      - [Netlify](https://www.netlify.com/) [free]
+    - Full website hosting
+      - [OVH](https://www.ovh.com/)
+      - [1&1](https://www.1and1.com/)
+      - [Hostinger](https://www.hostinger.com/) [free]
