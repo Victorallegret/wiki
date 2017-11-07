@@ -13,3 +13,6 @@ Welcome on my personal wiki. I will list here :
 * #### [GUIDELINES](guidelines)
 * #### [INSTALL](install)
 * #### RESOURCES
+  - Web hosting
+    - Static website hosting
+      - [Netlify](https://www.netlify.com/)
