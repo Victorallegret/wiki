@@ -20,3 +20,7 @@ Welcome on my personal wiki. I will list here :
       - [OVH](https://www.ovh.com/)
       - [1&1](https://www.1and1.com/)
       - [Hostinger](https://www.hostinger.com/) [free]
+  - Search engine
+    - [DuckDuckGo](https://duckduckgo.com/)
+    - [Ecosia](https://www.ecosia.org/)
+    - [Lilo](https://www.lilo.org/)
