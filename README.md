@@ -9,7 +9,7 @@ Welcome on my personal wiki. I will list here :
 
 ## Summary
 
-* [CONFIGURATION](configuration)
-* [GUIDELINES](guidelines)
-* [INSTALL](install)
-* RESOURCES
+* #### [CONFIGURATION](configuration)
+* #### [GUIDELINES](guidelines)
+* #### [INSTALL](install)
+* #### RESOURCES
