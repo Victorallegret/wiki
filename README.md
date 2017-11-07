@@ -24,3 +24,9 @@ Welcome on my personal wiki. I will list here :
     - [DuckDuckGo](https://duckduckgo.com/)
     - [Ecosia](https://www.ecosia.org/)
     - [Lilo](https://www.lilo.org/)
+  - Learning
+    - [Codecademy](https://www.codecademy.com/)
+    - [TeamThreeHouse](https://teamtreehouse.com/)
+    - [FreeCodeCamp](https://www.freecodecamp.org/)
+    - [Udemy](https://www.udemy.com/)
+    - [OpenClassRoom](https://openclassrooms.com/)
