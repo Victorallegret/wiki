@@ -132,6 +132,7 @@ I have used them in many situations, but as each project is different, they can 
     |    |- main.sass
     |
     ```
+<br/>
 
 ## Syntax and Formatting
 
@@ -140,27 +141,28 @@ I have used them in many situations, but as each project is different, they can 
     * 70 character max-wide columns.
     * two (2) space indents, no tabs.
     * multi-line Sass.
+<br/>
 
 ## Global file organization
 
-* I always try to make my files look familiar, so it's important to keep the same file organiszation.
+* I always try to make my files look familiar, so it's important to keep the same file organisation.
 
   * ### File title
     * A Sass file always begin with a clear title.
+
     ```sass
     // PROJECT NAME - FOLDER file.sass - Author
     // --------------------------------------------------------
     ```
 
-    <br/>
   * ### Maximum file size
     * The size of a file should never exceed 250 lines.
     * As needed, separate the file into two different files.
 
-    <br/>
   * ### Table of contents
     * As I rarely work with big files, I do not use often a tabe of contents.
     * But in some case, it can be usefull to create a table of contents to list the main section of the file.
+
     ```sass
     /**
      * TABLE OF CONTENTS
@@ -182,7 +184,7 @@ I have used them in many situations, but as each project is different, they can 
      */
     ```
 
-    <br/>
+<br/>
 
 ## Commenting & spacing
 
