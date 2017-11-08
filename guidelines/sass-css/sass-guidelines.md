@@ -290,13 +290,10 @@ I have used them in many situations, but as each project is different, they can 
   * ### Number
     * Zeros
         Numbers should display leading zeros before a decimal value less than one.
-
         Never display trailing zeros.
     * Units
         When dealing with lengths, a 0 value should never ever have a unit.
-
         I use **px** to set pictures size and for media-queries.
-
         I use **rem** for everything else.
 
         ```sass
