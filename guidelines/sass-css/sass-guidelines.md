@@ -289,10 +289,12 @@ I have used them in many situations, but as each project is different, they can 
 
   * ### Number
     * Zeros
+        <br/>
         Numbers should display leading zeros before a decimal value less than one.
         <br/>
         Never display trailing zeros.
     * Units
+        <br/>
         When dealing with lengths, a 0 value should never ever have a unit.
         <br/>
         I use **px** to set pictures size and for media-queries.
