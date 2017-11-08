@@ -11,6 +11,8 @@ Welcome on my personal wiki. I will list here :
 
 * #### [CONFIGURATION](configuration)
 * #### [GUIDELINES](guidelines)
+  - [Sass / Css](guidelines/sass-css)
+    - [Sass Guidelines](guidelines/sass-css/sass-guidelines.md)
 * #### [INSTALL](install)
 * #### RESOURCES
   - Web hosting
