@@ -6,6 +6,7 @@ These good practices are inspired by guidelines used and created at work.
 
 I have used them in many situations, but as each project is different, they can vary from one project to another.
 <br/>
+<br/>
 
 ## Folder architecture
 
@@ -139,9 +140,9 @@ I have used them in many situations, but as each project is different, they can 
 
 * The goal is to have a code that always look similar from a file to another.
 
-    * 70 character max-wide columns.
-    * two (2) space indents, no tabs.
-    * multi-line Sass.
+  * 70 character max-wide columns.
+  * two (2) space indents, no tabs.
+  * multi-line Sass.
 <br/>
 
 ## Global file organization
@@ -150,11 +151,11 @@ I have used them in many situations, but as each project is different, they can 
 
   * ### File title
     * A Sass file always begin with a clear title.
-    <br/>
-    ```sass
-    // PROJECT NAME - FOLDER file.sass - Author
-    // --------------------------------------------------------
-    ```
+
+        ```sass
+        // PROJECT NAME - FOLDER file.sass - Author
+        // --------------------------------------------------------
+        ```
 
   * ### Maximum file size
     * The size of a file should never exceed 250 lines.
@@ -163,26 +164,27 @@ I have used them in many situations, but as each project is different, they can 
   * ### Table of contents
     * As I rarely work with big files, I do not use often a tabe of contents.
     * But in some case, it can be usefull to create a table of contents to list the main sections of the file.
-    ```sass
-    /**
-     * TABLE OF CONTENTS
-     *
-     * DEFAULT INPUT STYLE
-     * Just write here the summury of what's inside.
-     *
-     * INPUT COLOR
-     * Just write here the summury of what's inside.
-     *
-     * INPUT SIZE
-     * Just write here the summury of what's inside.
-     *
-     * INPUT SHAPE
-     * Just write here the summury of what's inside.
-     *
-     * INPUT ICON
-     * Just write here the summury of what's inside.
-     */
-    ```
+
+        ```sass
+        /**
+         * TABLE OF CONTENTS
+         *
+         * DEFAULT INPUT STYLE
+         * Just write here the summury of what's inside.
+         *
+         * INPUT COLOR
+         * Just write here the summury of what's inside.
+         *
+         * INPUT SIZE
+         * Just write here the summury of what's inside.
+         *
+         * INPUT SHAPE
+         * Just write here the summury of what's inside.
+         *
+         * INPUT ICON
+         * Just write here the summury of what's inside.
+         */
+        ```
 
 <br/>
 
@@ -192,49 +194,55 @@ I have used them in many situations, but as each project is different, they can 
 
   * ### Informative comment
     * This comment should be next to the rule
-    ```sass
-     $primary: deeppink //-> This is the primary color of the project
-    ```
+
+        ```sass
+         $primary: deeppink //-> This is the primary color of the project
+        ```
 
   * ### **[1]** First level of separation
     * Use this type of separation between the main sections.
     * Skip 5 lines.
     * Use the following comment.
-    ```sass
-    ////////////////////
-    // SECTION TITLE
-    ////////////////////////////////////////////////////////////////////////////////
-    ```
+
+        ```sass
+        ////////////////////
+        // SECTION TITLE
+        ////////////////////////////////////////////////////////////////////////////////
+        ```
 
   * ### **[2]** Second level of separation
     * Use this type of separation between the major parts of a section.
     * Skip 3 lines.
     * Use the following comment.
-    ```sass
-    // MAJOR PART TITLE
-    // ---------------------------------------------------------
-    ```
+
+        ```sass
+        // MAJOR PART TITLE
+        // ---------------------------------------------------------
+        ```
 
   * ### **[3]** Third level of separation
     * Skip 2 lines.
     * Use the following comment.
-    ```sass
-    ///// TITLE
-    ```
 
-  * ### **[4]** Third level of separation
+        ```sass
+        ///// TITLE
+        ```
+
+  * ### **[4]** Fourth level of separation
     * Skip 1 lines.
     * Use the following comment.
-    ```sass
-    /// Title
-    ```
+
+        ```sass
+        /// Title
+        ```
 
   * ### **[5]** Fifth level of separation
     * Don't skip lines.
     * Use the following comment.
-    ```sass
-    // title
-    ```
+
+        ```sass
+        // title
+        ```
 
   <br/>
 
