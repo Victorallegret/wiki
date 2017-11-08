@@ -163,7 +163,7 @@ I have used them in many situations, but as each project is different, they can 
 
   * ### Table of contents
     * As I rarely work with big files, I do not use often a tabe of contents.
-    * But in some case, it can be usefull to create a table of contents to list the main sections of the file.
+    * But in some case, it can be useful to create a table of contents to list the main sections of the file.
 
         ```sass
         /**
@@ -250,10 +250,41 @@ I have used them in many situations, but as each project is different, they can 
 
 <br/>
 
+## Code order
+
+* To promote consistency between files, it's important to always have the same class & properties order.
+
+  * ### Class order
+    * Keep a logical order between the template and the Sass file.
+    * General --> particular
+    * Parent --> Child
+    * Don't forget to keep the same order in the responsive file.
+
+  * ### Properties order
+    * I order properties alphabetically for two reasons.
+    * They will be ordered in the same way for each class.
+    * The classification will follow the one on the inspect developer tool.
+
+        ```sass
+        .btn
+          align-items: center
+          border-radius: 0.3rem
+          color: $white
+          display: inline-flex
+          font-weight: 700
+          font-size: 1.4rem
+          height: 4rem
+          justify-content: center
+          padding: 1rem 3rem
+          text-decoration: none
+          transition: all $transition-default
+          width: auto
+        ```
+
+<br/>
+
 ## Naming conventions
 
+* I use the [BEM](https://en.bem.info/methodology/quick-start/) methodology. Block. Element. Modifier.
 
-
-
-
-
+<br/>
