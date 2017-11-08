@@ -2,7 +2,9 @@
 
 I will list here the guidelines I use for my sass files.
 
-<br/>
+These good practices are inspired by guidelines used and created at work.
+
+I have used them in many situations, but as each project is different, they can vary from one project to another.
 
 ## Folder architecture
 
@@ -121,6 +123,7 @@ I will list here the guidelines I use for my sass files.
     |    |    |- bootstrap.min.xxx
     |    |    |- select2.xxx
     |    |    |- slick.xxx
+    |    |    |- ...
     |    |
     |    |
     |    |
