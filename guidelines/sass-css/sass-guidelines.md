@@ -163,7 +163,6 @@ I have used them in many situations, but as each project is different, they can 
   * ### Table of contents
     * As I rarely work with big files, I do not use often a tabe of contents.
     * But in some case, it can be usefull to create a table of contents to list the main sections of the file.
-    <br/>
     ```sass
     /**
      * TABLE OF CONTENTS
@@ -191,18 +190,16 @@ I have used them in many situations, but as each project is different, they can 
 
 * Commenting and spacing are very useful for immediately identifying the main parts of the file. I use five (5) levels of separation in my files.
 
-  * ### **[1]** Informative comment
+  * ### Informative comment
     * This comment should be next to the rule
-    <br/>
     ```sass
      $primary: deeppink //-> This is the primary color of the project
     ```
 
-  * ### First level of separation
+  * ### **[1]** First level of separation
     * Use this type of separation between the main sections.
     * Skip 5 lines.
     * Use the following comment.
-    <br/>
     ```sass
     ////////////////////
     // SECTION TITLE
@@ -213,7 +210,6 @@ I have used them in many situations, but as each project is different, they can 
     * Use this type of separation between the major parts of a section.
     * Skip 3 lines.
     * Use the following comment.
-    <br/>
     ```sass
     // MAJOR PART TITLE
     // ---------------------------------------------------------
@@ -222,7 +218,6 @@ I have used them in many situations, but as each project is different, they can 
   * ### **[3]** Third level of separation
     * Skip 2 lines.
     * Use the following comment.
-    <br/>
     ```sass
     ///// TITLE
     ```
@@ -230,7 +225,6 @@ I have used them in many situations, but as each project is different, they can 
   * ### **[4]** Third level of separation
     * Skip 1 lines.
     * Use the following comment.
-    <br/>
     ```sass
     /// Title
     ```
@@ -238,7 +232,6 @@ I have used them in many situations, but as each project is different, they can 
   * ### **[5]** Fifth level of separation
     * Don't skip lines.
     * Use the following comment.
-    <br/>
     ```sass
     // title
     ```
