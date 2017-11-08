@@ -5,6 +5,7 @@ I will list here the guidelines I use for my sass files.
 These good practices are inspired by guidelines used and created at work.
 
 I have used them in many situations, but as each project is different, they can vary from one project to another.
+<br/>
 
 ## Folder architecture
 
@@ -134,7 +135,7 @@ I have used them in many situations, but as each project is different, they can 
     ```
 <br/>
 
-## Syntax and Formatting
+## Syntax & Formatting
 
 * The goal is to have a code that always look similar from a file to another.
 
@@ -145,11 +146,11 @@ I have used them in many situations, but as each project is different, they can 
 
 ## Global file organization
 
-* I always try to make my files look familiar, so it's important to keep the same file organisation.
+* I try to make my files look familiar, so it's important to keep the same file organisation.
 
   * ### File title
     * A Sass file always begin with a clear title.
-
+    <br/>
     ```sass
     // PROJECT NAME - FOLDER file.sass - Author
     // --------------------------------------------------------
@@ -161,8 +162,8 @@ I have used them in many situations, but as each project is different, they can 
 
   * ### Table of contents
     * As I rarely work with big files, I do not use often a tabe of contents.
-    * But in some case, it can be usefull to create a table of contents to list the main section of the file.
-
+    * But in some case, it can be usefull to create a table of contents to list the main sections of the file.
+    <br/>
     ```sass
     /**
      * TABLE OF CONTENTS
@@ -187,6 +188,71 @@ I have used them in many situations, but as each project is different, they can 
 <br/>
 
 ## Commenting & spacing
+
+* Commenting and spacing are very useful for immediately identifying the main parts of the file. I use five (5) levels of separation in my files.
+
+  * ### **[1]** Informative comment
+    * This comment should be next to the rule
+    <br/>
+    ```sass
+     $primary: deeppink //-> This is the primary color of the project
+    ```
+
+  * ### First level of separation
+    * Use this type of separation between the main sections.
+    * Skip 5 lines.
+    * Use the following comment.
+    <br/>
+    ```sass
+    ////////////////////
+    // SECTION TITLE
+    ////////////////////////////////////////////////////////////////////////////////
+    ```
+
+  * ### **[2]** Second level of separation
+    * Use this type of separation between the major parts of a section.
+    * Skip 3 lines.
+    * Use the following comment.
+    <br/>
+    ```sass
+    // MAJOR PART TITLE
+    // ---------------------------------------------------------
+    ```
+
+  * ### **[3]** Third level of separation
+    * Skip 2 lines.
+    * Use the following comment.
+    <br/>
+    ```sass
+    ///// TITLE
+    ```
+
+  * ### **[4]** Third level of separation
+    * Skip 1 lines.
+    * Use the following comment.
+    <br/>
+    ```sass
+    /// Title
+    ```
+
+  * ### **[5]** Fifth level of separation
+    * Don't skip lines.
+    * Use the following comment.
+    <br/>
+    ```sass
+    // title
+    ```
+
+  <br/>
+
+  > **Infos** Pseudo elements (`::before`, `::after`, ...) and status (`:hover`, `:focus`, ...) don't have to be separeted and should be attached to their parent.
+
+<br/>
+
+## Naming conventions
+
+
+
 
 
 
