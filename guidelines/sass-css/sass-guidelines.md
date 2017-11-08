@@ -8,7 +8,7 @@ I have used them in many situations, but as each project is different, they can 
 
 ## Folder architecture
 
-* The `stylesheets` folder will always have the same architecture. Has I use the [Atomic Design Methodology](http://bradfrost.com/blog/post/atomic-web-design/), I won't have a Sass file for each page.
+* The `stylesheets` folder will always have the same architecture. As I use the [Atomic Design Methodology](http://bradfrost.com/blog/post/atomic-web-design/), I won't have a Sass file for each page.
 
     ```ruby
     |
@@ -75,7 +75,7 @@ I have used them in many situations, but as each project is different, they can 
     |    |
     |    |
     |    |
-    |    |  # Folder to group responsive files.
+    |    |  # The folder to group responsive files.
     |    |- responsive/
     |    |    |
     |    |    |
@@ -117,7 +117,7 @@ I have used them in many situations, but as each project is different, they can 
     |    |
     |    |
     |    |
-    |    |  # Folder for external libraries
+    |    |  # The folder for external libraries
     |    |- vendors/
     |    |    |
     |    |    |- bootstrap.min.xxx
@@ -128,16 +128,16 @@ I have used them in many situations, but as each project is different, they can 
     |    |
     |    |
     |    |
-    |    |# Call every Sass partials
+    |    | # Call every Sass partials
     |    |- main.sass
     |
     ```
 
 ## Syntax and Formatting
 
-* The goal is to have a code that always look similar from file to another.
+* The goal is to have a code that always look similar from a file to another.
 
-    * 70 character wide columns.
+    * 70 character max-wide columns.
     * two space indents, no tabs.
     * multi-line Sass.
 
