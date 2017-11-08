@@ -290,16 +290,19 @@ I have used them in many situations, but as each project is different, they can 
   * ### Number
     * Zeros
       Numbers should display leading zeros before a decimal value less than one.
+
       Never display trailing zeros.
     * Units
       When dealing with lengths, a 0 value should never ever have a unit.
+
       I use **px** to set pictures size and for media-queries.
+
       I use **rem** for everything else.
+
           ```sass
           html
             font-size: 62.5% //-> 1rem = 10px
           ```
-
   * ### Colors
     * I try to store every color I use in a variable.
     * I use the **hexadecimal** way to setup a color.
