@@ -16,7 +16,7 @@ Welcome on my personal wiki. I will list here :
 * #### [INSTALL](install)
 * #### RESOURCES
 
-  * **Global**
+  * **GLOBAL** ------------------------------------------------------
 
     - Learning
       - [Codecademy](https://www.codecademy.com/) 🆓 ❤
@@ -39,7 +39,7 @@ Welcome on my personal wiki. I will list here :
       - [Ecosia](https://www.ecosia.org/)
       - [Lilo](https://www.lilo.org/)
 
-  * **Development**
+  * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
       - [Bootstrap](https://v4-alpha.getbootstrap.com/) ❤
@@ -47,6 +47,11 @@ Welcome on my personal wiki. I will list here :
       - [Semantic UI](https://semantic-ui.com/)
       - [Materialize](http://materializecss.com/)
       - [TailWindCss](https://tailwindcss.com/)
+
+    - Taskrunner JS
+      - [Gulp](https://gulpjs.com/) ❤
+      - [Grunt](https://gruntjs.com/)
+      - [Middleman](https://middlemanapp.com/)
 
     - Web hosting
       - Static website hosting
@@ -57,7 +62,7 @@ Welcome on my personal wiki. I will list here :
         - [1&1](https://www.1and1.com/)
         - [Hostinger](https://www.hostinger.com/) 🆓
 
-  * **Design**
+  * **DESIGN** ------------------------------------------------------
 
     - Design community
       - [Dribbble](https://dribbble.com/) ❤
