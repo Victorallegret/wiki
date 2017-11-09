@@ -16,30 +16,30 @@ Welcome on my personal wiki. I will list here :
 * #### [INSTALL](install)
 * #### RESOURCES
 
-  * Global
+  * **Global**
 
     - Learning
       - [Codecademy](https://www.codecademy.com/) 🆓 ❤
       - [TeamThreeHouse](https://teamtreehouse.com/)
       - [FreeCodeCamp](https://www.freecodecamp.org/) 🆓
-      - [Udemy](https://www.udemy.com/)
-      - [OpenClassRoom](https://openclassrooms.com/) 🆓
+      - [Udemy](https://www.udemy.com/) 🇫🇷
+      - [OpenClassRoom](https://openclassrooms.com/) 🆓 🇫🇷
       - [KhanAcademy](https://www.khanacademy.org/) 🆓
       - [Shayhowe](https://learn.shayhowe.com/)
       - [Udacity](https://www.udacity.com/)
       - [SoloLearn](https://www.sololearn.com/)
 
     - Photography
-      - [Unsplash](https://unsplash.com/)
+      - [Unsplash](https://unsplash.com/) ❤
       - [Pexels](https://www.pexels.com/)
       - [StockSnap](https://stocksnap.io/)
 
     - Search engine
-      - [DuckDuckGo](https://duckduckgo.com/) ❤
+      - [DuckDuckGo](https://duckduckgo.com/) ❤ 🇫🇷
       - [Ecosia](https://www.ecosia.org/)
       - [Lilo](https://www.lilo.org/)
 
-  * Development
+  * **Development**
 
     - Framework UI
       - [Bootstrap](https://v4-alpha.getbootstrap.com/) ❤
@@ -57,7 +57,13 @@ Welcome on my personal wiki. I will list here :
         - [1&1](https://www.1and1.com/)
         - [Hostinger](https://www.hostinger.com/) 🆓
 
-  * Design
+  * **Design**
+
+    - Design community
+      - [Dribbble](https://dribbble.com/) ❤
+      - [Behance](https://www.behance.net/)
+      - [Pinterest](https://www.pinterest.fr/)
+      - [UpLabs](https://www.uplabs.com/)
 
     - Color
       - [ColorHunt](http://colorhunt.co/)
