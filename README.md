@@ -64,6 +64,25 @@ Welcome on my personal wiki. I will list here :
       - [Yarn](https://yarnpkg.com/lang/en/)
       - [Npm](https://www.npmjs.com/) ❤
 
+    - Preprocessor CSS
+      - [Sass](http://sass-lang.com/) ❤
+      - [Less](http://lesscss.org/)
+      - [Stylus](http://stylus-lang.com/)
+      - [PostCss](http://postcss.org/)
+
+    - Preprocessor HTML
+      - [Slim](http://slim-lang.com/) ❤
+      - [Jade](http://jade-lang.com/)
+      - [Haml](http://haml.info/)
+
+    - Css animation
+      - [Animista](http://animista.net/)
+      - [Cubic-bezier](http://cubic-bezier.com/)
+
+    - Git
+      - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
+      - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+
     - Web hosting
       - Static website hosting
         - [Netlify](https://www.netlify.com/) 🆓 ❤
@@ -90,3 +109,12 @@ Welcome on my personal wiki. I will list here :
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
       - [uiGradients](https://uigradients.com/)
+
+    - Icon
+      - [Flaticon](https://www.flaticon.com/)
+      - [IcoMoon](https://icomoon.io/)
+      - [Material Google Icons](https://material.io/icons/) ❤
+
+    - Group of resources
+      - [ResourceCards](https://resourcecards.com/) ❤
+      - [MakerBook](http://makerbook.net/)
