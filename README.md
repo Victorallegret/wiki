@@ -16,27 +16,43 @@ Welcome on my personal wiki. I will list here :
 * #### [INSTALL](install)
 * #### RESOURCES
 
-  - Web hosting
-    - Static website hosting
-      - [Netlify](https://www.netlify.com/) [free]
-    - Full website hosting
-      - [Heroku](https://www.heroku.com/)
-      - [OVH](https://www.ovh.com/)
-      - [1&1](https://www.1and1.com/)
-      - [Hostinger](https://www.hostinger.com/) [free]
+  * Global
 
-  - Search engine
-    - [DuckDuckGo](https://duckduckgo.com/)
+    - Learning
+      - [Codecademy](https://www.codecademy.com/) 🆓 ❤
+      - [TeamThreeHouse](https://teamtreehouse.com/)
+      - [FreeCodeCamp](https://www.freecodecamp.org/) 🆓
+      - [Udemy](https://www.udemy.com/)
+      - [OpenClassRoom](https://openclassrooms.com/) 🆓
+      - [KhanAcademy](https://www.khanacademy.org/) 🆓
+      - [Shayhowe](https://learn.shayhowe.com/)
+      - [Udacity](https://www.udacity.com/)
+      - [SoloLearn](https://www.sololearn.com/)
+
+    - Search engine
+    - [DuckDuckGo](https://duckduckgo.com/) ❤
     - [Ecosia](https://www.ecosia.org/)
     - [Lilo](https://www.lilo.org/)
 
-  - Learning
-    - [Codecademy](https://www.codecademy.com/)
-    - [TeamThreeHouse](https://teamtreehouse.com/)
-    - [FreeCodeCamp](https://www.freecodecamp.org/)
-    - [Udemy](https://www.udemy.com/)
-    - [OpenClassRoom](https://openclassrooms.com/)
-    - [KhanAcademy](https://www.khanacademy.org/)
-    - [Shayhowe](https://learn.shayhowe.com/)
-    - [Udacity](https://www.udacity.com/)
-    - [SoloLearn](https://www.sololearn.com/)
+  * Development
+
+    - Framework UI
+      - [Bootstrap](https://v4-alpha.getbootstrap.com/) ❤
+      - [Foundation](http://foundation.zurb.com/)
+      - [Semantic UI](https://semantic-ui.com/)
+      - [Materialize](http://materializecss.com/)
+      - [TailWindCss](https://tailwindcss.com/)
+
+    - Web hosting
+      - Static website hosting
+        - [Netlify](https://www.netlify.com/) 🆓 ❤
+      - Full website hosting
+        - [Heroku](https://www.heroku.com/)
+        - [OVH](https://www.ovh.com/) ❤
+        - [1&1](https://www.1and1.com/)
+        - [Hostinger](https://www.hostinger.com/) 🆓
+
+  * Design
+
+    - Gradient
+      - [Grabient](https://www.grabient.com/)
