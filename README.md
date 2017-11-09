@@ -54,5 +54,12 @@ Welcome on my personal wiki. I will list here :
 
   * Design
 
+    - Color
+      - [ColorHunt](http://colorhunt.co/)
+      - [LolColors](https://www.webdesignrankings.com/resources/lolcolors/)
+      - [Khroma](http://khroma.co/) ❤
+      - [Material Color Tool](https://material.io/color/)
+
     - Gradient
-      - [Grabient](https://www.grabient.com/)
+      - [Grabient](https://www.grabient.com/) ❤
+      - [uiGradients](https://uigradients.com/)
