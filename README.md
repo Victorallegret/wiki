@@ -53,6 +53,17 @@ Welcome on my personal wiki. I will list here :
       - [Grunt](https://gruntjs.com/)
       - [Middleman](https://middlemanapp.com/)
 
+    - Framework JS
+      - [Angular](https://angular.io/)
+      - [Vue](https://vuejs.org/) ❤
+      - [React](https://facebook.github.io/react/)
+      - [Ember](https://www.emberjs.com/)
+      - [Inferno](https://infernojs.org/)
+
+    - Package Manager
+      - [Yarn](https://yarnpkg.com/lang/en/)
+      - [Npm](https://www.npmjs.com/) ❤
+
     - Web hosting
       - Static website hosting
         - [Netlify](https://www.netlify.com/) 🆓 ❤
