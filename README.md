@@ -39,6 +39,9 @@ Welcome on my personal wiki. I will list here :
       - [Ecosia](https://www.ecosia.org/)
       - [Lilo](https://www.lilo.org/)
 
+    - Licence
+      - [Git Licence](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94) ❤ 📖
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
@@ -76,12 +79,18 @@ Welcome on my personal wiki. I will list here :
       - [Haml](http://haml.info/)
 
     - Css animation
-      - [Animista](http://animista.net/)
+      - [Animista](http://animista.net/) ❤
       - [Cubic-bezier](http://cubic-bezier.com/)
+
+    - Css prefixes
+      - [Autoprefixer](https://github.com/postcss/autoprefixer) ❤
 
     - Git
       - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
       - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+
+    - Compatibility
+      - [CanIUse](https://caniuse.com/) ❤
 
     - Web hosting
       - Static website hosting
@@ -91,6 +100,9 @@ Welcome on my personal wiki. I will list here :
         - [OVH](https://www.ovh.com/) ❤
         - [1&1](https://www.1and1.com/)
         - [Hostinger](https://www.hostinger.com/) 🆓
+
+    - Code Highlighter
+      - [Prism](http://prismjs.com/) ❤
 
   * **DESIGN** ------------------------------------------------------
 
@@ -114,6 +126,9 @@ Welcome on my personal wiki. I will list here :
       - [Flaticon](https://www.flaticon.com/)
       - [IcoMoon](https://icomoon.io/)
       - [Material Google Icons](https://material.io/icons/) ❤
+
+    - Vector
+      - [Freepik](http://fr.freepik.com/) ❤
 
     - Group of resources
       - [ResourceCards](https://resourcecards.com/) ❤
