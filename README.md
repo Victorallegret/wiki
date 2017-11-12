@@ -85,12 +85,51 @@ Welcome on my personal wiki. I will list here :
     - Css prefixes
       - [Autoprefixer](https://github.com/postcss/autoprefixer) ❤
 
+    - Css :nth-child calculator
+      - [nth-test](http://www.topdesignagencies.com/nth-test/) ❤
+      - [nth-child-tester](https://css-tricks.com/examples/nth-child-tester/)
+
+    - Drag & Drop
+      - [Draggable](https://shopify.github.io/draggable/) ❤
+      - [Packery](https://packery.metafizzy.co/)
+
+    - Js animation
+      - [Anime](http://animejs.com/) ❤
+
+    - SVG Optimiser
+      - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
+
+    - Form dropzone
+      - [DropZone](http://www.dropzonejs.com/) ❤
+
+    - Form select
+      - [Select2](https://select2.github.io/) ❤
+      - [DropKick](http://dropkickjs.com/)
+
+    - Form server
+      - [PageClip](https://pageclip.co/) ❤
+
+    - Image placeholder
+      - [Placeholder](https://placeholder.com/) ❤
+
+    - Image ratio
+      - [height-equal-width](http://www.mademyday.de/css-height-equals-width-with-pure-css.html) ❤ 📖
+
+    - Image object fit (pollyfill)
+      - [object-fit-image](https://github.com/bfred-it/object-fit-images) ❤
+
+    - Image zoom
+      - [Zoom](https://github.com/fat/zoom.js) ❤
+
     - Git
       - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
       - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
 
     - Compatibility
       - [CanIUse](https://caniuse.com/) ❤
+
+    - CMS
+      - [Contentful](https://www.contentful.com/) ❤
 
     - Web hosting
       - Static website hosting
@@ -121,6 +160,7 @@ Welcome on my personal wiki. I will list here :
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
       - [uiGradients](https://uigradients.com/)
+      - [ColorSpace](https://mycolor.space/gradient)
 
     - Icon
       - [Flaticon](https://www.flaticon.com/)
