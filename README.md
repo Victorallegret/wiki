@@ -39,6 +39,8 @@ Welcome on my personal wiki. I will list here :
       - [Ecosia](https://www.ecosia.org/)
       - [Lilo](https://www.lilo.org/)
 
+    - Shortcut
+      - [Shortcuts.design](http://shortcuts.design/)
     - Licence
       - [Git Licence](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94) ❤ 📖
 
