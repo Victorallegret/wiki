@@ -98,6 +98,9 @@ Welcome on my personal wiki. I will list here :
     - Js animation
       - [Anime](http://animejs.com/) ❤
 
+    - Js chart
+      - [chartJs](http://www.chartjs.org/) ❤
+
     - SVG Optimiser
       - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
 
