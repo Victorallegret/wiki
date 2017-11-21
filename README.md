@@ -130,6 +130,7 @@ Welcome on my personal wiki. I will list here :
     - Git
       - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
       - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
+      - [Git Standup](https://github.com/kamranahmedse/git-standup)
 
     - Markdown
       - [MarkdownLivePreview](http://markdownlivepreview.com/) ❤
@@ -143,6 +144,7 @@ Welcome on my personal wiki. I will list here :
     - Web hosting
       - Static website hosting
         - [Netlify](https://www.netlify.com/) 🆓 ❤
+        - [Surge](https://surge.sh/)
       - Full website hosting
         - [Heroku](https://www.heroku.com/)
         - [OVH](https://www.ovh.com/) ❤
