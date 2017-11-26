@@ -154,6 +154,9 @@ Welcome on my personal wiki. I will list here :
     - Code Highlighter
       - [Prism](http://prismjs.com/) ❤
 
+    - QA
+      - [StackOverflow](https://stackoverflow.com) ❤
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
