@@ -41,8 +41,21 @@ Welcome on my personal wiki. I will list here :
 
     - Shortcut
       - [Shortcuts.design](http://shortcuts.design/)
+
     - Licence
       - [Git Licence](https://medium.freecodecamp.org/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94) ❤ 📖
+
+    - Mind mapping
+      - [Coggle](https://coggle.it/?lang=fr) ❤ 🇫🇷
+
+    - Strawpoll / Survey
+      - [TypeForm](https://www.typeform.com/) ❤
+      - [Google Form](https://www.google.fr/intl/fr/forms/about/)
+      - [Strawpoll](http://strawpoll.me/)
+
+    - Freelance community
+      - [Creads](https://www.creads.fr/projets/all)
+      - [HopWork](https://www.hopwork.fr/)
 
   * **DEVELOPMENT** -------------------------------------------------
 
@@ -79,6 +92,9 @@ Welcome on my personal wiki. I will list here :
       - [Slim](http://slim-lang.com/) ❤
       - [Jade](http://jade-lang.com/)
       - [Haml](http://haml.info/)
+
+    - Html / Css text editor toolkit
+      - [Emmet](https://emmet.io/)
 
     - Css animation
       - [Animista](http://animista.net/) ❤
@@ -165,6 +181,19 @@ Welcome on my personal wiki. I will list here :
       - [Pinterest](https://www.pinterest.fr/)
       - [UpLabs](https://www.uplabs.com/)
 
+    - Atomic Design
+      - [BradFrost part 1](http://bradfrost.com/blog/post/atomic-web-design/) ❤
+      - [BradFrost part 2](http://atomicdesign.bradfrost.com/chapter-2/)
+      - [Atomic Design](https://medium.com/@audreyhacq/l-atomic-design-une-m%C3%A9thode-de-co-creation-prometteuse-bd9d5fc2b2ad) 🇫🇷 📖
+
+    - Material Design
+      - [Material Design Resources](https://material.io/) ❤
+      - [Material Design Guidelines](https://material.io/guidelines/)
+      - [Material Design Bootstrap](https://mdbootstrap.com/)
+
+    - Design trends
+      - [2017 Design trends](https://www.behance.net/gallery/47810259/2017-Design-Trends-Guide) ❤
+
     - Color
       - [ColorHunt](http://colorhunt.co/)
       - [LolColors](https://www.webdesignrankings.com/resources/lolcolors/)
@@ -183,6 +212,9 @@ Welcome on my personal wiki. I will list here :
 
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
+
+    - Random design ideas
+      - [DesignerCize](https://designercize.com/) ❤
 
     - Group of resources
       - [ResourceCards](https://resourcecards.com/) ❤
