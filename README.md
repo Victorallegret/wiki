@@ -154,6 +154,9 @@ Welcome on my personal wiki. I will list here :
     - Compatibility
       - [CanIUse](https://caniuse.com/) ❤
 
+    - Social media
+      - [AddThis](https://www.addthis.com) ❤
+
     - CMS
       - [Contentful](https://www.contentful.com/) ❤
 
