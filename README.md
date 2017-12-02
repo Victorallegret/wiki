@@ -96,6 +96,9 @@ Welcome on my personal wiki. I will list here :
     - Html / Css text editor toolkit
       - [Emmet](https://emmet.io/)
 
+    - Html head
+      - [HEAD](https://github.com/joshbuchea/HEAD) ❤
+
     - Css animation
       - [Animista](http://animista.net/) ❤
       - [Cubic-bezier](http://cubic-bezier.com/)
