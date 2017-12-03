@@ -57,6 +57,9 @@ Welcome on my personal wiki. I will list here :
       - [Creads](https://www.creads.fr/projets/all)
       - [HopWork](https://www.hopwork.fr/)
 
+    - Payment
+      - [Stripe](https://stripe.com) ❤
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
