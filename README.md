@@ -60,6 +60,9 @@ Welcome on my personal wiki. I will list here :
     - Payment
       - [Stripe](https://stripe.com) ❤
 
+    - Site maps
+      - [Gloomaps](https://www.gloomaps.com/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
