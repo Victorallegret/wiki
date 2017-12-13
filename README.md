@@ -122,6 +122,7 @@ Welcome on my personal wiki. I will list here :
     - Drag & Drop
       - [Draggable](https://shopify.github.io/draggable/) ❤
       - [Packery](https://packery.metafizzy.co/)
+      - [Muuri](https://haltu.github.io/muuri/)
 
     - Js animation
       - [Anime](http://animejs.com/) ❤
