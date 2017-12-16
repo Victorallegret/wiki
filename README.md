@@ -130,6 +130,10 @@ Welcome on my personal wiki. I will list here :
     - Js chart
       - [chartJs](http://www.chartjs.org/) ❤
 
+    - Js testing
+      - [Jest](https://facebook.github.io/jest/)
+      - [MochaJs](https://mochajs.org/)
+
     - SVG Optimiser
       - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
 
