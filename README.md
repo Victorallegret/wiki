@@ -71,6 +71,7 @@ Welcome on my personal wiki. I will list here :
       - [Semantic UI](https://semantic-ui.com/)
       - [Materialize](http://materializecss.com/)
       - [TailWindCss](https://tailwindcss.com/)
+      - [Bulma](https://bulma.io/)
 
     - Taskrunner JS
       - [Gulp](https://gulpjs.com/) ❤
