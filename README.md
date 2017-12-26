@@ -194,6 +194,9 @@ Welcome on my personal wiki. I will list here :
     - QA
       - [StackOverflow](https://stackoverflow.com) ❤
 
+    - Scrollbar
+      - [PerfectScrollbar](https://github.com/utatti/perfect-scrollbar)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
