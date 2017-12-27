@@ -63,6 +63,13 @@ Welcome on my personal wiki. I will list here :
     - Site maps
       - [Gloomaps](https://www.gloomaps.com/)
 
+    - Documentation
+      - [W3schools](https://www.w3schools.com/)
+      - [CssTricks](https://css-tricks.com/)
+      - [PutainDeCode](http://putaindecode.io/) 🇫🇷
+      - [CssReference](http://cssreference.io/)
+      - [HtmlReference](http://htmlreference.io/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
