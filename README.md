@@ -204,6 +204,9 @@ Welcome on my personal wiki. I will list here :
     - Scrollbar
       - [PerfectScrollbar](https://github.com/utatti/perfect-scrollbar)
 
+    - Blog framework
+      - [Hexo](https://hexo.io/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
