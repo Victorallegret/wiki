@@ -207,6 +207,10 @@ Welcome on my personal wiki. I will list here :
     - Blog framework
       - [Hexo](https://hexo.io/)
 
+    - Commenting
+      - [Disqus](https://disqus.com/)
+      - [Schnack](https://github.com/gka/schnack)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
