@@ -70,6 +70,9 @@ Welcome on my personal wiki. I will list here :
       - [CssReference](http://cssreference.io/)
       - [HtmlReference](http://htmlreference.io/)
 
+    - Technology radar
+      - [Kollegorna](https://radar.kollegorna.se/) ❤
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
