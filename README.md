@@ -110,7 +110,7 @@ Welcome on my personal wiki. I will list here :
       - [Jade](http://jade-lang.com/)
       - [Haml](http://haml.info/)
 
-    - Js fiddle
+    - Fiddle snippet
       - [Jsfiddle](https://jsfiddle.net/) ❤
 
     - Html / Css text editor toolkit
@@ -187,6 +187,7 @@ Welcome on my personal wiki. I will list here :
 
     - CMS
       - [Contentful](https://www.contentful.com/) ❤
+      - [Mavo](http://mavo.io/)
 
     - Web hosting
       - Static website hosting
