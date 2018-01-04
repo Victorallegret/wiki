@@ -246,6 +246,7 @@ Welcome on my personal wiki. I will list here :
       - [LolColors](https://www.webdesignrankings.com/resources/lolcolors/)
       - [Khroma](http://khroma.co/) ❤
       - [Material Color Tool](https://material.io/color/)
+      - [ColorBook](https://colorbook.me/)
 
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
