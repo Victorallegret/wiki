@@ -151,6 +151,7 @@ Welcome on my personal wiki. I will list here :
     - Form dropzone
       - [DropZone](http://www.dropzonejs.com/) ❤
       - [Drag&Drop](https://css-tricks.com/drag-and-drop-file-uploading/) 📖
+      - [Uppy](https://uppy.io/)
 
     - Form select
       - [Select2](https://select2.github.io/) ❤
