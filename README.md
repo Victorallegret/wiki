@@ -69,6 +69,7 @@ Welcome on my personal wiki. I will list here :
       - [PutainDeCode](http://putaindecode.io/) 🇫🇷
       - [CssReference](http://cssreference.io/)
       - [HtmlReference](http://htmlreference.io/)
+      - [Scotch](https://scotch.io/)
 
     - Technology radar
       - [Kollegorna](https://radar.kollegorna.se/) ❤
