@@ -135,6 +135,7 @@ Welcome on my personal wiki. I will list here :
       - [Draggable](https://shopify.github.io/draggable/) ❤
       - [Packery](https://packery.metafizzy.co/)
       - [Muuri](https://haltu.github.io/muuri/)
+      - [Sortable](http://rubaxa.github.io/Sortable/)
 
     - Js animation
       - [Anime](http://animejs.com/) ❤
