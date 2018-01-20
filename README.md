@@ -100,6 +100,9 @@ Welcome on my personal wiki. I will list here :
       - [Yarn](https://yarnpkg.com/lang/en/)
       - [Npm](https://www.npmjs.com/) ❤
 
+    - WYSIWYG
+      - [Trumbowyg](https://alex-d.github.io/Trumbowyg/)
+
     - Preprocessor CSS
       - [Sass](http://sass-lang.com/) ❤
       - [Less](http://lesscss.org/)
