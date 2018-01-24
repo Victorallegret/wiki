@@ -74,6 +74,10 @@ Welcome on my personal wiki. I will list here :
     - Technology radar
       - [Kollegorna](https://radar.kollegorna.se/) ❤
 
+    - Chatbot
+      - [Motion](https://www.motion.ai/)
+      - [ChatFuel](https://chatfuel.com/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
