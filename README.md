@@ -230,11 +230,6 @@ Welcome on my personal wiki. I will list here :
       - [Disqus](https://disqus.com/)
       - [Schnack](https://github.com/gka/schnack)
 
-    - Learning
-      - [Codecademy](https://www.codecademy.com)
-      - [TeamThreeHouse](https://teamtreehouse.com/)
-      - [FreeCodeCamp](https://www.freecodecamp.org/)
-
   * **DESIGN** ------------------------------------------------------
 
     - Design community
