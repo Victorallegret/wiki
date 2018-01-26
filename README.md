@@ -272,6 +272,9 @@ Welcome on my personal wiki. I will list here :
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
 
+    - Typo
+      - [Prototypo](https://www.prototypo.io/)
+
     - Random design ideas
       - [DesignerCize](https://designercize.com/) ❤
 
