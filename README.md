@@ -107,6 +107,7 @@ Welcome on my personal wiki. I will list here :
     - WYSIWYG
       - [Trumbowyg](https://alex-d.github.io/Trumbowyg/)
       - [Redactor](https://imperavi.com/redactor/)
+      - [QuillJs](https://quilljs.com/)
 
     - Preprocessor CSS
       - [Sass](http://sass-lang.com/) ❤
