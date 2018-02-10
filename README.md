@@ -258,6 +258,7 @@ Welcome on my personal wiki. I will list here :
       - [Khroma](http://khroma.co/) ❤
       - [Material Color Tool](https://material.io/color/)
       - [ColorBook](https://colorbook.me/)
+      - [ShapeFactory](https://pigment.shapefactory.co/)
 
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
