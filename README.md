@@ -162,6 +162,9 @@ Welcome on my personal wiki. I will list here :
     - SVG Optimiser
       - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
 
+    - SVG Librarie
+      - [SVG-background](https://www.svgbackgrounds.com/)
+
     - Form dropzone
       - [DropZone](http://www.dropzonejs.com/) ❤
       - [Drag&Drop](https://css-tricks.com/drag-and-drop-file-uploading/) 📖
