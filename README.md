@@ -208,6 +208,7 @@ Welcome on my personal wiki. I will list here :
     - CMS
       - [Contentful](https://www.contentful.com/) ❤
       - [Mavo](http://mavo.io/)
+      - [Ghost](https://ghost.org/fr/)
 
     - Web hosting
       - Static website hosting
