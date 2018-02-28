@@ -55,7 +55,7 @@ Welcome on my personal wiki. I will list here :
 
     - Freelance community
       - [Creads](https://www.creads.fr/projets/all)
-      - [HopWork](https://www.hopwork.fr/)
+      - [Malt](https://www.malt.fr/)
 
     - Payment
       - [Stripe](https://stripe.com) ❤
