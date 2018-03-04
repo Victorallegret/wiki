@@ -237,6 +237,10 @@ Welcome on my personal wiki. I will list here :
       - [Disqus](https://disqus.com/)
       - [Schnack](https://github.com/gka/schnack)
 
+    - Google Map
+      - [SnazzyMaps](https://snazzymaps.com/)
+      - [Google Map](https://developers.google.com/maps/documentation/javascript/tutorial#google.maps.Map)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
