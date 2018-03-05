@@ -56,6 +56,7 @@ Welcome on my personal wiki. I will list here :
     - Freelance community
       - [Creads](https://www.creads.fr/projets/all)
       - [Malt](https://www.malt.fr/) ❤
+      - [Codeur](https://www.codeur.com/)
 
     - Payment
       - [Stripe](https://stripe.com) ❤
@@ -286,6 +287,8 @@ Welcome on my personal wiki. I will list here :
 
     - Typo
       - [Prototypo](https://www.prototypo.io/)
+      - [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
+      - [Fluid Type Calc](https://www.madebymike.com.au/writing/fluid-type-calc-examples/)
 
     - Mockup
       - [Threed](http://threed.io/?ref=jonathan-menet.fr/blog/)
