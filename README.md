@@ -285,6 +285,9 @@ Welcome on my personal wiki. I will list here :
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
 
+    - SVG
+      - [SVG Background](https://www.svgbackgrounds.com/)
+
     - Typo
       - [Prototypo](https://www.prototypo.io/)
       - [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
