@@ -79,6 +79,9 @@ Welcome on my personal wiki. I will list here :
       - [Motion](https://www.motion.ai/)
       - [ChatFuel](https://chatfuel.com/)
 
+    - Persona
+      [Xtensio](https://xtensio.com/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
