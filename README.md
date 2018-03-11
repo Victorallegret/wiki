@@ -305,3 +305,4 @@ Welcome on my personal wiki. I will list here :
     - Group of resources
       - [ResourceCards](https://resourcecards.com/) ❤
       - [MakerBook](http://makerbook.net/)
+      - [Radar Kollegorna](https://radar.kollegorna.se/)
