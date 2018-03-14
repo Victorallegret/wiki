@@ -195,6 +195,7 @@ Welcome on my personal wiki. I will list here :
       - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
       - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
       - [Git Standup](https://github.com/kamranahmedse/git-standup)
+      - [Tig](https://github.com/jonas/tig)
 
     - Markdown
       - [MarkdownLivePreview](http://markdownlivepreview.com/) ❤
