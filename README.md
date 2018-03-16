@@ -246,6 +246,9 @@ Welcome on my personal wiki. I will list here :
       - [SnazzyMaps](https://snazzymaps.com/)
       - [Google Map](https://developers.google.com/maps/documentation/javascript/tutorial#google.maps.Map)
 
+    - Vue.js
+      - [VueSax](https://lusaxweb.github.io/vuesax/#/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
