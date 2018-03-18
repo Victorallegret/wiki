@@ -249,6 +249,7 @@ Welcome on my personal wiki. I will list here :
     - Vue.js
       - [VueSax](https://lusaxweb.github.io/vuesax/#/)
       - [VueX](https://github.com/vuejs/vuex)
+      - [Vuetify](https://vuetifyjs.com)
 
   * **DESIGN** ------------------------------------------------------
 
