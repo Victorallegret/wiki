@@ -250,6 +250,7 @@ Welcome on my personal wiki. I will list here :
       - [VueSax](https://lusaxweb.github.io/vuesax/#/)
       - [VueX](https://github.com/vuejs/vuex)
       - [Vuetify](https://vuetifyjs.com)
+      - [VueCli](https://github.com/vuejs/vue-cli)
 
   * **DESIGN** ------------------------------------------------------
 
