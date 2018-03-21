@@ -80,7 +80,7 @@ Welcome on my personal wiki. I will list here :
       - [ChatFuel](https://chatfuel.com/)
 
     - Persona
-      [Xtensio](https://xtensio.com/)
+      - [Xtensio](https://xtensio.com/)
 
   * **DEVELOPMENT** -------------------------------------------------
 
