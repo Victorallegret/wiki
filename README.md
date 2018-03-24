@@ -280,6 +280,7 @@ Welcome on my personal wiki. I will list here :
       - [Material Color Tool](https://material.io/color/)
       - [ColorBook](https://colorbook.me/)
       - [ShapeFactory](https://pigment.shapefactory.co/)
+      - [Coolors](https://coolors.co/)
 
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
