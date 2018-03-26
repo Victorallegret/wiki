@@ -252,6 +252,9 @@ Welcome on my personal wiki. I will list here :
       - [Vuetify](https://vuetifyjs.com)
       - [VueCli](https://github.com/vuejs/vue-cli)
 
+    - Error
+      - [Sentry](https://sentry.io/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
