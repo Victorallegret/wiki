@@ -38,6 +38,7 @@ Welcome on my personal wiki. I will list here :
       - [DuckDuckGo](https://duckduckgo.com/) ❤ 🇫🇷
       - [Ecosia](https://www.ecosia.org/)
       - [Lilo](https://www.lilo.org/)
+      - [Vivaldi](https://vivaldi.com/?lang=fr_FR)
 
     - Shortcut
       - [Shortcuts.design](http://shortcuts.design/)
