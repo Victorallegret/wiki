@@ -273,6 +273,7 @@ Welcome on my personal wiki. I will list here :
       - [BradFrost part 1](http://bradfrost.com/blog/post/atomic-web-design/) ❤
       - [BradFrost part 2](http://atomicdesign.bradfrost.com/chapter-2/)
       - [Atomic Design](https://medium.com/@audreyhacq/l-atomic-design-une-m%C3%A9thode-de-co-creation-prometteuse-bd9d5fc2b2ad) 🇫🇷 📖
+      - [PatternLab](http://patternlab.io/)
 
     - Material Design
       - [Material Design Resources](https://material.io/) ❤
