@@ -260,6 +260,7 @@ Welcome on my personal wiki. I will list here :
 
     - Error
       - [Sentry](https://sentry.io/)
+      - [BugSnag](https://www.bugsnag.com/)
 
   * **DESIGN** ------------------------------------------------------
 
