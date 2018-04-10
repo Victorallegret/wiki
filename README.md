@@ -243,6 +243,8 @@ Welcome on my personal wiki. I will list here :
     - Blog framework
       - [Hexo](https://hexo.io/)
 
+    - Project documentation
+      - [DocSify](https://docsify.js.org/)
     - Commenting
       - [Disqus](https://disqus.com/)
       - [Schnack](https://github.com/gka/schnack)
