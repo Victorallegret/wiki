@@ -264,6 +264,9 @@ Welcome on my personal wiki. I will list here :
       - [Sentry](https://sentry.io/)
       - [BugSnag](https://www.bugsnag.com/)
 
+    - Admin Template
+      - [Tabler](https://tabler.github.io/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
