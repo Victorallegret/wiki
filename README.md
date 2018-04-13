@@ -148,6 +148,7 @@ Welcome on my personal wiki. I will list here :
     - Css :nth-child calculator
       - [nth-test](http://www.topdesignagencies.com/nth-test/) ❤
       - [nth-child-tester](https://css-tricks.com/examples/nth-child-tester/)
+      - [NthMaster](http://nthmaster.com/)
 
     - Sass tool
       - [Bourbon](https://www.bourbon.io/docs/latest/)
