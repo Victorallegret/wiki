@@ -28,6 +28,7 @@ Welcome on my personal wiki. I will list here :
       - [Shayhowe](https://learn.shayhowe.com/)
       - [Udacity](https://www.udacity.com/)
       - [SoloLearn](https://www.sololearn.com/)
+      - [Lynda](https://www.lynda.com/)
 
     - Photography
       - [Unsplash](https://unsplash.com/) ❤
