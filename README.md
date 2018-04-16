@@ -261,6 +261,7 @@ Welcome on my personal wiki. I will list here :
       - [Vuetify](https://vuetifyjs.com)
       - [VueCli](https://github.com/vuejs/vue-cli)
       - [VueSauce](https://botre.github.io/vue-sauce/)
+      - [VuePress](https://vuepress.vuejs.org/)
 
     - Error
       - [Sentry](https://sentry.io/)
