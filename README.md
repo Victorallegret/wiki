@@ -213,6 +213,7 @@ Welcome on my personal wiki. I will list here :
     - Compatibility
       - [CanIUse](https://caniuse.com/) ❤
       - [YouMightNotNeedJquery](http://youmightnotneedjquery.com/)
+      - [BrowserHAck](http://browserhacks.com/)
 
     - Social media
       - [AddThis](https://www.addthis.com) ❤
