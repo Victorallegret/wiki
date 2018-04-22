@@ -329,6 +329,10 @@ Welcome on my personal wiki. I will list here :
 
     - Glitch
       - [Blotter](https://blotter.js.org/#)
+
+    - Wallpaper
+      - [21WallPaper](https://21wallpaper.design/)
+
     - Random design ideas
       - [DesignerCize](https://designercize.com/) ❤
 
