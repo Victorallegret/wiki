@@ -271,8 +271,9 @@ Welcome on my personal wiki. I will list here :
     - Admin Template
       - [Tabler](https://tabler.github.io/)
 
-    - Line Clamping
+    - Line Clampin
       - [Clamp.js](https://github.com/josephschmitt/Clamp.js)
+      - [Line Clampin](https://css-tricks.com/line-clampin/) 📖
 
   * **DESIGN** ------------------------------------------------------
 
