@@ -275,6 +275,9 @@ Welcome on my personal wiki. I will list here :
       - [Clamp.js](https://github.com/josephschmitt/Clamp.js)
       - [Line Clampin](https://css-tricks.com/line-clampin/) 📖
 
+    - Group of resources
+      - [Frontend Deals](http://frontend.deals/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
