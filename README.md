@@ -277,6 +277,7 @@ Welcome on my personal wiki. I will list here :
 
     - Group of resources
       - [Frontend Deals](http://frontend.deals/)
+      - [Frontend Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 
   * **DESIGN** ------------------------------------------------------
 
