@@ -29,6 +29,7 @@ Welcome on my personal wiki. I will list here :
       - [Udacity](https://www.udacity.com/)
       - [SoloLearn](https://www.sololearn.com/)
       - [Lynda](https://www.lynda.com/)
+      - [Laracasts Vue.js](https://laracasts.com/series/learn-vue-2-step-by-step)
 
     - Photography
       - [Unsplash](https://unsplash.com/) ❤
