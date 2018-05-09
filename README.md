@@ -264,6 +264,7 @@ Welcome on my personal wiki. I will list here :
       - [VueCli](https://github.com/vuejs/vue-cli)
       - [VueSauce](https://botre.github.io/vue-sauce/)
       - [VuePress](https://vuepress.vuejs.org/)
+      - [VuejsCli](https://github.com/Microsoft/vscode-recipes/blob/master/vuejs-cli/README.md)
 
     - Error
       - [Sentry](https://sentry.io/)
