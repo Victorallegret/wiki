@@ -288,6 +288,9 @@ Welcome on my personal wiki. I will list here :
     - Background
       - [Brusher](http://kamranahmed.info/brusher/)
 
+    - Iterm Commands
+      - [Tecmint](https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
