@@ -89,6 +89,9 @@ Welcome on my personal wiki. I will list here :
       - [Cucumber](https://cucumber.io/)
       - [LawSofux](https://lawsofux.com/)
 
+    - Discount
+      - [Student discount](https://www.eggradients.com/discount-for-students?ref=prototyprio#content)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
