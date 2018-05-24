@@ -343,6 +343,9 @@ Welcome on my personal wiki. I will list here :
     - SVG
       - [SVG Background](https://www.svgbackgrounds.com/)
 
+    - Background
+      - [CoolBackgrounds](https://coolbackgrounds.io/)
+
     - Typo
       - [Prototypo](https://www.prototypo.io/)
       - [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
