@@ -114,6 +114,9 @@ Welcome on my personal wiki. I will list here :
       - [Ember](https://www.emberjs.com/)
       - [Inferno](https://infernojs.org/)
 
+    - Linting tool
+      - [SonarWhal](https://sonarwhal.com/)
+
     - Package Manager
       - [Yarn](https://yarnpkg.com/lang/en/)
       - [Npm](https://www.npmjs.com/) ❤
