@@ -299,6 +299,10 @@ Welcome on my personal wiki. I will list here :
     - Iterm Commands
       - [Tecmint](https://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/)
 
+    - Front pre render
+      - [Prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader)
+
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
