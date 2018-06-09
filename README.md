@@ -167,6 +167,10 @@ Welcome on my personal wiki. I will list here :
       - [Muuri](https://haltu.github.io/muuri/)
       - [Sortable](http://rubaxa.github.io/Sortable/)
 
+    - Slider
+      - [Juxtapose Slider](https://juxtapose.knightlab.com/)
+
+
     - Js animation
       - [Anime](http://animejs.com/) ❤
 
