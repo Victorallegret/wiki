@@ -374,6 +374,9 @@ Welcome on my personal wiki. I will list here :
     - Wallpaper
       - [21WallPaper](https://21wallpaper.design/)
 
+    - Wireframe
+      - [Whimsical](https://whimsical.co/wireframes/)
+
     - Design team manager
       - [Lingo](https://www.lingoapp.com/)
 
