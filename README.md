@@ -351,6 +351,7 @@ Welcome on my personal wiki. I will list here :
       - [IcoMoon](https://icomoon.io/)
       - [Material Google Icons](https://material.io/icons/) ❤
       - [FontAwesome](https://fontawesome.com/)
+      - [The Noun Project](https://thenounproject.com/)
 
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
