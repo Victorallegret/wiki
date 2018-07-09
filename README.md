@@ -169,6 +169,7 @@ Welcome on my personal wiki. I will list here :
 
     - Slider
       - [Juxtapose Slider](https://juxtapose.knightlab.com/)
+      - [Swiper](http://idangero.us/swiper/)
 
 
     - Js animation
