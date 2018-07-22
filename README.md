@@ -340,6 +340,7 @@ Welcome on my personal wiki. I will list here :
       - [ColorBook](https://colorbook.me/)
       - [ShapeFactory](https://pigment.shapefactory.co/)
       - [Coolors](https://coolors.co/)
+      - [ContrastChecker](https://webaim.org/resources/contrastchecker/)
 
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
@@ -351,6 +352,7 @@ Welcome on my personal wiki. I will list here :
       - [IcoMoon](https://icomoon.io/)
       - [Material Google Icons](https://material.io/icons/) ❤
       - [FontAwesome](https://fontawesome.com/)
+      - [The Noun Project](https://thenounproject.com/)
 
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
@@ -374,6 +376,12 @@ Welcome on my personal wiki. I will list here :
 
     - Wallpaper
       - [21WallPaper](https://21wallpaper.design/)
+
+    - Wireframe
+      - [Whimsical](https://whimsical.co/wireframes/)
+
+    - Design team manager
+      - [Lingo](https://www.lingoapp.com/)
 
     - Random design ideas
       - [DesignerCize](https://designercize.com/) ❤
