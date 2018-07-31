@@ -347,6 +347,7 @@ Welcome on my personal wiki. I will list here :
       - [Grabient](https://www.grabient.com/) ❤
       - [uiGradients](https://uigradients.com/)
       - [ColorSpace](https://mycolor.space/gradient)
+      - [GradientGuru](http://gradientsguru.com/)
 
     - Icon
       - [Flaticon](https://www.flaticon.com/)
