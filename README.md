@@ -263,6 +263,7 @@ Welcome on my personal wiki. I will list here :
 
     - Project documentation
       - [DocSify](https://docsify.js.org/)
+
     - Commenting
       - [Disqus](https://disqus.com/)
       - [Schnack](https://github.com/gka/schnack)
@@ -308,6 +309,9 @@ Welcome on my personal wiki. I will list here :
 
     - Front pre render
       - [Prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader)
+
+    - Clip Path
+      - [Clippy](https://bennettfeely.com/clippy/)
 
 
   * **DESIGN** ------------------------------------------------------
