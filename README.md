@@ -313,6 +313,9 @@ Welcome on my personal wiki. I will list here :
     - Clip Path
       - [Clippy](https://bennettfeely.com/clippy/)
 
+    - Datepicker
+      - [Vue Datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker)
+
 
   * **DESIGN** ------------------------------------------------------
 
