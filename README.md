@@ -171,6 +171,7 @@ Welcome on my personal wiki. I will list here :
     - Slider
       - [Juxtapose Slider](https://juxtapose.knightlab.com/)
       - [Swiper](http://idangero.us/swiper/)
+      - [Slick](http://kenwheeler.github.io/slick/)
 
 
     - Js animation
@@ -263,6 +264,7 @@ Welcome on my personal wiki. I will list here :
 
     - Project documentation
       - [DocSify](https://docsify.js.org/)
+
     - Commenting
       - [Disqus](https://disqus.com/)
       - [Schnack](https://github.com/gka/schnack)
@@ -309,6 +311,14 @@ Welcome on my personal wiki. I will list here :
     - Front pre render
       - [Prerender-loader](https://github.com/GoogleChromeLabs/prerender-loader)
 
+    - Clip Path
+      - [Clippy](https://bennettfeely.com/clippy/)
+
+    - Datepicker
+      - [Vue Datepicker](https://github.com/krystalcampioni/vue-hotel-datepicker)
+
+    - Component Librarie
+      - [Fractal](https://fractal.build/)
 
   * **DESIGN** ------------------------------------------------------
 
@@ -347,6 +357,8 @@ Welcome on my personal wiki. I will list here :
       - [Grabient](https://www.grabient.com/) ❤
       - [uiGradients](https://uigradients.com/)
       - [ColorSpace](https://mycolor.space/gradient)
+      - [GradientGuru](http://gradientsguru.com/)
+      - [CssGradient](https://cssgradient.io/gradient-backgrounds/?ref=producthunt)
 
     - Icon
       - [Flaticon](https://www.flaticon.com/)
