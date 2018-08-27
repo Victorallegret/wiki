@@ -166,6 +166,7 @@ Welcome on my personal wiki. I will list here :
       - [Packery](https://packery.metafizzy.co/)
       - [Muuri](https://haltu.github.io/muuri/)
       - [Sortable](http://rubaxa.github.io/Sortable/)
+      - [Vue draggable](https://github.com/SortableJS/Vue.Draggable)
 
     - Slider
       - [Juxtapose Slider](https://juxtapose.knightlab.com/)
