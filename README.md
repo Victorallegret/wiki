@@ -197,6 +197,9 @@ Welcome on my personal wiki. I will list here :
       - [Uppy](https://uppy.io/)
       - [Drag&Drop VanillaJS](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/)📖
 
+    - File Upload
+      - [Filepond](https://pqina.nl/filepond/)
+
     - Form select
       - [Select2](https://select2.github.io/) ❤
       - [DropKick](http://dropkickjs.com/)
