@@ -234,6 +234,7 @@ Welcome on my personal wiki. I will list here :
       - [YouMightNotNeedJquery](http://youmightnotneedjquery.com/)
       - [BrowserHack](http://browserhacks.com/)
       - [Finicky](https://github.com/johnste/finicky)
+      - [CanIUse Email](https://caniuse.email/)
 
     - Social media
       - [AddThis](https://www.addthis.com) ❤
