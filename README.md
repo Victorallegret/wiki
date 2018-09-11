@@ -277,6 +277,7 @@ Welcome on my personal wiki. I will list here :
     - Google Map
       - [SnazzyMaps](https://snazzymaps.com/)
       - [Google Map](https://developers.google.com/maps/documentation/javascript/tutorial#google.maps.Map)
+      - [Mapiful](https://www.mapiful.com/fr/)
 
     - Vue.js
       - [VueSax](https://lusaxweb.github.io/vuesax/#/)
