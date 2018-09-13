@@ -251,7 +251,7 @@ Welcome on my personal wiki. I will list here :
         - [Surge](https://surge.sh/)
       - Full website hosting
         - [Heroku](https://www.heroku.com/)
-        - [OVH](https://www.ovh.com/) ❤
+        - [OVH](https://www.ovh.com/)
         - [1&1](https://www.1and1.com/)
         - [Hostinger](https://www.hostinger.com/) 🆓
 
