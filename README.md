@@ -416,3 +416,4 @@ Welcome on my personal wiki. I will list here :
       - [ResourceCards](https://resourcecards.com/) ❤
       - [MakerBook](http://makerbook.net/)
       - [Radar Kollegorna](https://radar.kollegorna.se/)
+      - [DesignNotes](https://www.designnotes.co/)
