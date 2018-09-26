@@ -365,6 +365,7 @@ Welcome on my personal wiki. I will list here :
       - [Coolors](https://coolors.co/)
       - [ContrastChecker](https://webaim.org/resources/contrastchecker/)
       - [Picular](https://picular.co/)
+      - [TrendyPalettes](https://trendypalettes.com/)
 
     - Gradient
       - [Grabient](https://www.grabient.com/) ❤
