@@ -395,6 +395,9 @@ Welcome on my personal wiki. I will list here :
       - [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
       - [Fluid Type Calc](https://www.madebymike.com.au/writing/fluid-type-calc-examples/)
 
+    - Font
+      - [](https://getfonts.com/)
+
     - Mockup
       - [Threed](http://threed.io/?ref=jonathan-menet.fr/blog/)
 
