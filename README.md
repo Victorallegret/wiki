@@ -35,6 +35,7 @@ Welcome on my personal wiki. I will list here :
       - [Unsplash](https://unsplash.com/) ❤
       - [Pexels](https://www.pexels.com/)
       - [StockSnap](https://stocksnap.io/)
+      - [Moose](https://photos.icons8.com/)
 
     - Search engine
       - [DuckDuckGo](https://duckduckgo.com/) ❤ 🇫🇷
