@@ -397,7 +397,8 @@ Welcome on my personal wiki. I will list here :
       - [Fluid Type Calc](https://www.madebymike.com.au/writing/fluid-type-calc-examples/)
 
     - Font
-      - [](https://getfonts.com/)
+      - [GetFonts](https://getfonts.com/)
+      - [Dafont](https://www.dafont.com/)
 
     - Mockup
       - [Threed](http://threed.io/?ref=jonathan-menet.fr/blog/)
