@@ -399,6 +399,7 @@ Welcome on my personal wiki. I will list here :
     - Font
       - [GetFonts](https://getfonts.com/)
       - [Dafont](https://www.dafont.com/)
+      - [LoremIpsum](https://loremipsum.io/)
 
     - Mockup
       - [Threed](http://threed.io/?ref=jonathan-menet.fr/blog/)
