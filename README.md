@@ -374,6 +374,7 @@ Welcome on my personal wiki. I will list here :
       - [ColorSpace](https://mycolor.space/gradient)
       - [GradientGuru](http://gradientsguru.com/)
       - [CssGradient](https://cssgradient.io/gradient-backgrounds/?ref=producthunt)
+      - [Gradients Party](https://gradients.party/)
 
     - Icon
       - [Flaticon](https://www.flaticon.com/)
