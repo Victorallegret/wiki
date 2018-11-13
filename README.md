@@ -334,6 +334,10 @@ Welcome on my personal wiki. I will list here :
     - Hamburger Menu
       - [Hamburgers](https://jonsuh.com/hamburgers/)
 
+    - Code Highlighter
+      - [Highligh JS](https://highlightjs.org/)
+      - [Prism JS](https://prismjs.com/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
