@@ -259,6 +259,7 @@ Welcome on my personal wiki. I will list here :
 
     - Code Highlighter
       - [Prism](http://prismjs.com/) ❤
+      - [Highlight JS](https://highlightjs.org/)
 
     - QA
       - [StackOverflow](https://stackoverflow.com) ❤
