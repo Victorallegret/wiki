@@ -342,6 +342,8 @@ Welcome on my personal wiki. I will list here :
     - Page transition
       -  [SmoothState](https://github.com/miguel-perez/smoothState.js)
 
+    - Border radius
+      - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
   * **DESIGN** ------------------------------------------------------
 
     - Design community
