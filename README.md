@@ -340,10 +340,12 @@ Welcome on my personal wiki. I will list here :
       - [Prism JS](https://prismjs.com/)
 
     - Page transition
-      -  [SmoothState](https://github.com/miguel-perez/smoothState.js)
+      - [SmoothState](https://github.com/miguel-perez/smoothState.js)
+      - [Highway](https://dogstudio.github.io/highway/)
 
     - Border radius
       - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
