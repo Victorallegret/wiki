@@ -94,6 +94,9 @@ Welcome on my personal wiki. I will list here :
     - Discount
       - [Student discount](https://www.eggradients.com/discount-for-students?ref=prototyprio#content)
 
+    - SEO
+      - [Schema](https://schema.org/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
