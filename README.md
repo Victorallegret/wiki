@@ -96,6 +96,7 @@ Welcome on my personal wiki. I will list here :
 
     - SEO
       - [Schema](https://schema.org/)
+      - [Testing tool](https://search.google.com/structured-data/testing-tool/u/0/)
 
   * **DEVELOPMENT** -------------------------------------------------
 
