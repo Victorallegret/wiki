@@ -347,6 +347,7 @@ Welcome on my personal wiki. I will list here :
     - Page transition
       - [SmoothState](https://github.com/miguel-perez/smoothState.js)
       - [Highway](https://dogstudio.github.io/highway/)
+      - [Swup](https://github.com/gmrchk/swup)
 
     - Border radius
       - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
