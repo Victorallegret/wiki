@@ -437,6 +437,7 @@ Welcome on my personal wiki. I will list here :
 
     - Design team manager
       - [Lingo](https://www.lingoapp.com/)
+      - [GoAbstract](https://www.goabstract.com/)
 
     - Random design ideas
       - [DesignerCize](https://designercize.com/) ❤
