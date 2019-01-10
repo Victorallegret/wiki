@@ -438,6 +438,7 @@ Welcome on my personal wiki. I will list here :
     - Design team manager
       - [Lingo](https://www.lingoapp.com/)
       - [GoAbstract](https://www.goabstract.com/)
+      - [Invision DSM](https://www.invisionapp.com/design-system-manager/)
 
     - Random design ideas
       - [DesignerCize](https://designercize.com/) ❤
