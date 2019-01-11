@@ -395,6 +395,7 @@ Welcome on my personal wiki. I will list here :
       - [GradientGuru](http://gradientsguru.com/)
       - [CssGradient](https://cssgradient.io/gradient-backgrounds/?ref=producthunt)
       - [Gradients Party](https://gradients.party/)
+      - [CoolHue](https://webkul.github.io/coolhue/)
 
     - Icon
       - [Flaticon](https://www.flaticon.com/)
