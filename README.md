@@ -296,6 +296,7 @@ Welcome on my personal wiki. I will list here :
       - [VuePress](https://vuepress.vuejs.org/)
       - [VuejsCli](https://github.com/Microsoft/vscode-recipes/blob/master/vuejs-cli/README.md)
       - [Curated](https://curated.vuejs.org/)
+      - [Vue Progressive image](https://github.com/MatteoGabriele/vue-progressive-image)
 
     - Error
       - [Sentry](https://sentry.io/)
