@@ -228,6 +228,9 @@ Welcome on my personal wiki. I will list here :
     - Image zoom
       - [Zoom](https://github.com/fat/zoom.js) ❤
 
+    - Image lazyloading
+      - [Vue progressive image](https://github.com/MatteoGabriele/vue-progressive-image)
+
     - Git
       - [Learn git](https://www.miximum.fr/blog/enfin-comprendre-git/) ❤ 🇫🇷 📖
       - [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/)
