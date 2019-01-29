@@ -183,7 +183,6 @@ Welcome on my personal wiki. I will list here :
       - [Swiper](http://idangero.us/swiper/)
       - [Slick](http://kenwheeler.github.io/slick/)
 
-
     - Js animation
       - [Anime](http://animejs.com/) ❤
       - [Micro interactions](http://www.webdesignertrends.com/2019/01/effets-javascript-css-animations/?fbclid=IwAR31P5jgyCVOvZTJF84uZCrch1EmnQ7rbaB6PmiL_RRiBtMUuLc76OH5WSM)
@@ -194,6 +193,9 @@ Welcome on my personal wiki. I will list here :
     - Js testing
       - [Jest](https://facebook.github.io/jest/)
       - [MochaJs](https://mochajs.org/)
+
+    - Parallax
+      - [Jarallax](https://github.com/nk-o/jarallax)
 
     - SVG Optimiser
       - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
