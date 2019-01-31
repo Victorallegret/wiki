@@ -413,8 +413,11 @@ Welcome on my personal wiki. I will list here :
       - [Material Google Icons](https://material.io/icons/) ❤
       - [FontAwesome](https://fontawesome.com/)
       - [The Noun Project](https://thenounproject.com/)
-      - [UnDraw](https://undraw.co/illustrations)
       - [Icon Transitions](https://nucleoapp.com/tool/icon-transition)
+
+    - Illustration
+      - [Humaaans](https://www.humaaans.com/)
+      - [UnDraw](https://undraw.co/illustrations)
 
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
