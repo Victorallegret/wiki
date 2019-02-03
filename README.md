@@ -413,6 +413,7 @@ Welcome on my personal wiki. I will list here :
       - [Material Google Icons](https://material.io/icons/) ❤
       - [FontAwesome](https://fontawesome.com/)
       - [The Noun Project](https://thenounproject.com/)
+      - [Eva Icon](https://akveo.github.io/eva-icons/#/)
       - [Icon Transitions](https://nucleoapp.com/tool/icon-transition)
 
     - Illustration
