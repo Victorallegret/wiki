@@ -359,6 +359,9 @@ Welcome on my personal wiki. I will list here :
       - [Highway](https://dogstudio.github.io/highway/)
       - [Swup](https://github.com/gmrchk/swup)
 
+    - Custom scrollbar
+      - [Smooth ScrollBar](https://idiotwu.github.io/smooth-scrollbar/)
+
     - Border radius
       - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 
