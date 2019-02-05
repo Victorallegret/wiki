@@ -361,6 +361,7 @@ Welcome on my personal wiki. I will list here :
 
     - Custom scrollbar
       - [Smooth ScrollBar](https://idiotwu.github.io/smooth-scrollbar/)
+      - [OverlayScrollbars](https://kingsora.github.io/OverlayScrollbars/)
 
     - Border radius
       - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
