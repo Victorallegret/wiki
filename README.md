@@ -366,6 +366,9 @@ Welcome on my personal wiki. I will list here :
     - Border radius
       - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/)
 
+    - Typography
+      - [Rfs fluid typo](https://github.com/twbs/rfs)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
