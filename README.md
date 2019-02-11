@@ -99,6 +99,9 @@ Welcome on my personal wiki. I will list here :
       - [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
       - [Alyze](https://alyze.info/)
 
+    - Freelance tools
+      - [Inyo {beta}](https://beta.inyo.me/)
+
   * **DEVELOPMENT** -------------------------------------------------
 
     - Framework UI
