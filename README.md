@@ -200,6 +200,7 @@ Welcome on my personal wiki. I will list here :
     - Parallax
       - [Jarallax](https://github.com/nk-o/jarallax)
       - [Rallax](https://github.com/ChrisCavs/rallax.js)
+      - [Electerious](https://basicscroll.electerious.com/)
 
     - SVG Optimiser
       - [Svg-optimiser](http://petercollingridge.appspot.com/svg-optimiser) ❤
