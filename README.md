@@ -463,6 +463,9 @@ Welcome on my personal wiki. I will list here :
     - Wireframe
       - [Whimsical](https://whimsical.co/wireframes/)
 
+    - Design freebies
+      - [lstore.podia](https://lstore.podia.com/dashboard)
+
     - Design team manager
       - [Lingo](https://www.lingoapp.com/)
       - [GoAbstract](https://www.goabstract.com/)
