@@ -310,6 +310,7 @@ Welcome on my personal wiki. I will list here :
       - [VuejsCli](https://github.com/Microsoft/vscode-recipes/blob/master/vuejs-cli/README.md)
       - [Curated](https://curated.vuejs.org/)
       - [Vue Progressive image](https://github.com/MatteoGabriele/vue-progressive-image)
+      - [Nuxt](https://fr.nuxtjs.org/)
 
     - Error
       - [Sentry](https://sentry.io/)
