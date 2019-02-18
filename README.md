@@ -311,6 +311,7 @@ Welcome on my personal wiki. I will list here :
       - [Curated](https://curated.vuejs.org/)
       - [Vue Progressive image](https://github.com/MatteoGabriele/vue-progressive-image)
       - [Nuxt](https://fr.nuxtjs.org/)
+      - [GridSome](https://gridsome.org/)
 
     - Error
       - [Sentry](https://sentry.io/)
