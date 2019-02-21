@@ -101,6 +101,7 @@ Welcome on my personal wiki. I will list here :
 
     - Freelance tools
       - [Inyo {beta}](https://beta.inyo.me/)
+      - [Letsdeel](https://www.letsdeel.com/)
 
   * **DEVELOPMENT** -------------------------------------------------
 
