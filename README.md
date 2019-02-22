@@ -379,6 +379,9 @@ Welcome on my personal wiki. I will list here :
     - Flexbox to Grid
       - [GridToFlex](https://www.gridtoflex.com/)
 
+    - Morphing shapes
+      - [Blobmaker](https://www.blobmaker.app/)
+
   * **DESIGN** ------------------------------------------------------
 
     - Design community
