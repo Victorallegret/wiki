@@ -472,6 +472,9 @@ Welcome on my personal wiki. I will list here :
     - Wireframe
       - [Whimsical](https://whimsical.co/wireframes/)
 
+    - 3D tools
+      - [Vectary](https://www.vectary.com/)
+
     - Design freebies
       - [lstore.podia](https://lstore.podia.com/dashboard)
 
