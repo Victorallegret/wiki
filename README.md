@@ -440,6 +440,7 @@ Welcome on my personal wiki. I will list here :
       - [Humaaans](https://www.humaaans.com/)
       - [UnDraw](https://undraw.co/illustrations)
       - [Icons8 Ouch](https://icons8.com/ouch)
+      - [StreamlineIcons](https://streamlineicons.com/ux/)
 
     - Vector
       - [Freepik](http://fr.freepik.com/) ❤
