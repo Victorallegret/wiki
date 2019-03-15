@@ -102,6 +102,7 @@ Welcome on my personal wiki. I will list here :
     - Freelance tools
       - [Inyo {beta}](https://beta.inyo.me/)
       - [Letsdeel](https://www.letsdeel.com/)
+      - [20 tools freelancing](https://www.invisionapp.com/inside-design/20-tools-freelancing/) 📖
 
   * **DEVELOPMENT** -------------------------------------------------
 
